@@ -1,0 +1,18 @@
+[
+	{
+		name: "Áo 1",
+		url: '/details.html',
+		image: 'https://picsum.photos/300?random=1',
+		colorList: ['Xanh', 'Đỏ', 'Tím', 'Vàng'],
+		sizeList: ['S', 'M', 'L', 'XL', 'XXL'],
+		price: 300000
+	},
+	{
+		name: "Áo 2",
+		url: '/details.html',
+		image: 'https://picsum.photos/300?random=2',
+		colorList: ['Xanh', 'Đỏ', 'Tím', 'Vàng'],
+		sizeList: ['S', 'M', 'L', 'XL', 'XXL'],
+		price: 300000
+	}
+]
