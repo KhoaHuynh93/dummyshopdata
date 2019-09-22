@@ -1,1 +1,123 @@
-{"products":[{"colors":[{"name":"Vàng","price":120000,"sizes":[{"size":"28","inStock":10},{"size":"29","inStock":20}],"code":"#ece611","images":["/media/1001/spring.jpg","/media/1003/autumn.jpg","/media/1002/winter.jpg"]}],"subCategoryId":1083,"categoryId":1065,"id":1066,"name":"Tank Top","url":"/listing/shirt/sub-1/tank-top/"},{"colors":[{"name":"Vàng","price":0,"sizes":[{"size":"28","inStock":10},{"size":"29","inStock":20}],"code":"","images":[]}],"subCategoryId":1084,"categoryId":1065,"id":1085,"name":"Tank Top 2","url":"/listing/shirt/sub-2/tank-top-2/"},{"colors":[{"name":"Vàng","price":0,"sizes":[{"size":"28","inStock":10},{"size":"29","inStock":20}],"code":"","images":[]}],"subCategoryId":1087,"categoryId":1086,"id":1088,"name":"Tank Top","url":"/listing/pants/sub-1/tank-top/"},{"colors":[{"name":"Vàng","price":0,"sizes":[{"size":"28","inStock":10},{"size":"29","inStock":20}],"code":"","images":[]}],"subCategoryId":1089,"categoryId":1086,"id":1090,"name":"Tank Top 2","url":"/listing/pants/sub-2/tank-top-2/"}]}
+{
+  "products": [
+    {
+      "colors": [
+        {
+          "name": "Vàng",
+          "price": 120000,
+          "sizes": [
+            {
+              "size": "28",
+              "inStock": 10
+            },
+            {
+              "size": "29",
+              "inStock": 20
+            }
+          ],
+          "code": "#ece611",
+          "images": [
+            "/media/1001/spring.jpg",
+            "/media/1003/autumn.jpg",
+            "/media/1002/winter.jpg"
+          ]
+        }
+      ],
+      "subCategoryId": 1083,
+      "categoryId": 1065,
+      "id": 1066,
+      "name": "Tank Top",
+      "url": "/listing/shirt/sub-1/tank-top/"
+    },
+    {
+      "colors": [
+        {
+          "name": "Vàng",
+          "price": 0,
+          "sizes": [
+            {
+              "size": "28",
+              "inStock": 10
+            },
+            {
+              "size": "29",
+              "inStock": 20
+            }
+          ],
+          "code": "",
+          "images": []
+        }
+      ],
+      "subCategoryId": 1084,
+      "categoryId": 1065,
+      "id": 1085,
+      "name": "Tank Top 2",
+      "url": "/listing/shirt/sub-2/tank-top-2/"
+    },
+    {
+      "colors": [
+        {
+          "name": "Vàng",
+          "price": 0,
+          "sizes": [
+            {
+              "size": "28",
+              "inStock": 10
+            },
+            {
+              "size": "29",
+              "inStock": 20
+            }
+          ],
+          "code": "",
+          "images": []
+        }
+      ],
+      "subCategoryId": 1087,
+      "categoryId": 1086,
+      "id": 1088,
+      "name": "Tank Top",
+      "url": "/listing/pants/sub-1/tank-top/"
+    },
+    {
+      "colors": [
+        {
+          "name": "Vàng",
+          "price": 0,
+          "sizes": [
+            {
+              "size": "28",
+              "inStock": 10
+            },
+            {
+              "size": "29",
+              "inStock": 20
+            }
+          ],
+          "code": "",
+          "images": []
+        }
+      ],
+      "subCategoryId": 1089,
+      "categoryId": 1086,
+      "id": 1090,
+      "name": "Tank Top 2",
+      "url": "/listing/pants/sub-2/tank-top-2/"
+    }
+  ],
+  "subCategories": [
+    {
+      "categoryId": "1086",
+      "id": "1065",
+      "name": "Shirt",
+      "url": "/listing/shirt/"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1086",
+      "name": "Pants",
+      "url": "/listing/pants/"
+    }
+  ]
+}
